@@ -17,7 +17,7 @@ This project is still very much work in progress. It will be updated whenever. T
 * Copy the entirety off the javascript function and create a bookmark
 * Paste this into the page area and title the page anything you want.
 
-```javascript:var%20script=document.createElement('script');script.src="REPLACE WITH THE GITHUB RAW URL YOU JUST COPIED";script.type="text/javascript";document.body.appendChild(script);```
+```javascript:var%20script=document.createElement('script');script.src="https://raw.githubusercontent.com/palerbr1ck/TSPC/main/script.js";script.type="text/javascript";document.body.appendChild(script);```
 
 * Open TownsendPress and click on the newly created bookmarklet
 * Enjoy!
