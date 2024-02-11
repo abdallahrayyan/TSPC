@@ -1,7 +1,7 @@
 (() => {
   async function fetchAnswer() {
     try {
-      let KEY = "key";
+      let KEY = "key"; // replace the text "key" (keep the quotation marks) with your API key from https://platform.openai.com/account/api-keys
       let directions = document.getElementById("directions").innerText;
       let question = document.getElementById("question").innerText;
       let answers = document.getElementsByClassName("answer-option");
